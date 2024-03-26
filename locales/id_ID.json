@@ -1,6 +1,10 @@
 {
-    "intro": "Selamat datang",
+    "intro": "Selamat datang di Toko Servis Komputer!",
     "template.menu": "Ketik angka *{{number}}* : untuk *{{menu}}*",
-    "menu.daftarProduk": "🧰 Daftar Produk",
-    "menu.alamatKantor": "Alamat Kantor"
+    "menu.daftarHarga": "💵 Daftar Harga",
+    "menu.cekServis": "💻 Cek Servis",
+    "menu.back": "🏠 Kembali ke Menu Utama",
+    "daftarHargaTemplate": "Ini daftar harga harga layanan kami:\n\n❇️Install ulang: Rp75 ribu – 100 ribu\n❇️Flash BIOS: Rp100 ribu – 300 ribu\n❇️Ganti keyboard: Rp100 ribu – 500 ribu\n❇️Ganti touchpad: Rp200 ribu – 400 ribu\n❇️Ganti LCD laptop: Rp700 ribu – 1.5 juta\n❇️Ganti kabel fleksibel: Rp150 ribu – 400 ribu\n❇️Perbaiki speaker: Rp100 ribu – 300 ribu\n❇️Ganti Thermal paste: Rp100 ribu – 150 ribu\n❇️Ganti DVD drive: Rp180 ribu – 300 ribu\n❇️Ganti RAM: Rp250 ribu – 800 ribu\n❇️Ganti HD: Rp320 ribu – 800 ribu\n❇️Ganti baterai: Rp200 ribu – 500 ribu\n❇️Ganti casing laptop: Rp200 ribu – 800 ribu\n❇️Ganti engsel baru: Rp100 ribu – 200 ribu\n❇️Lain-lain: Rp100 – 400 ribu\n❇️Harga service komputer mati total: Rp800 ribu – 3 jutaan",
+    "footer": "💻 *Kami adalah toko servis komputer terbaik di Pamulang.*",
+    "headerCekServis":"Terimakasih sudah mempercayakan servis komputer anda di tempat kami, berikut detail status servis anda:"
 }
