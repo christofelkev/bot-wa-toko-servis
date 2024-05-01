@@ -16,7 +16,7 @@ exports.getData = async (wa) => {
         let responseStr = ""
         response.data.data.forEach(element => {
             if(element.wa.toString() === wa) {
-                responseStr += `Jenis Servis : ${element.jenis_servis} (${element.banyak_barang})\nHarga : Rp.${element.total_bayar}\nStatus : ${element.status}\n\n`
+                responseStr += `Nama : ${element.nama}\nJenis Servis : ${element.jenis_servis} (${element.banyak_barang})\nHarga : Rp.${element.total_bayar}\nStatus : ${element.status}\n\n`
             }
             
         });
